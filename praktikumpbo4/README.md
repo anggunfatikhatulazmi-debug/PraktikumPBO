@@ -51,8 +51,7 @@ java -ea -cp out library.main.MainApp
 > Flag `-ea` mengaktifkan **assertion** untuk validasi data anggota.
 
 ## 🖥️ Contoh Output
-================================
-SISTEM MANAJEMEN PERPUSTAKAAN MINI
+=== SISTEM MANAJEMEN PERPUSTAKAAN MINI ===
 1. Tambah Buku
 2. Daftar Buku
 3. Cari Buku
