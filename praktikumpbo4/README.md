@@ -51,15 +51,16 @@ java -ea -cp out library.main.MainApp
 > Flag `-ea` mengaktifkan **assertion** untuk validasi data anggota.
 
 ## 🖥️ Contoh Output
-=========================================
+================================
 SISTEM MANAJEMEN PERPUSTAKAAN MINI
-Tambah Buku
-Daftar Buku
-Cari Buku
-Pinjam Buku
-Kembalikan Buku
-Laporan Perpustakaan
-Keluar
+1. Tambah Buku
+2. Daftar Buku
+3. Cari Buku
+4. Pinjam Buku
+5. Kembalikan Buku
+6. Laporan Perpustakaan
+7. Keluar
+
 Pilih menu: 4
 ID Anggota : A001
 Judul Buku : Laskar Pelangi
